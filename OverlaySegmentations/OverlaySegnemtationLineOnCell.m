@@ -4,7 +4,6 @@
 strDapi = '/Volumes/Doris2TB/170228JUNPFA/TIFF/170228dorisJUN_E07_T0001F022L01A02Z01C03.png';
 
 strDapi = '/Users/dorispopovic/shares/pelkmans-new-fileserver/dpopovic/2019/4i-siRNA/19102019Doris4i-siRNA-C1/images/19102019Doris4i-siRNA-C1_G07_T0001F008L01A01Z01C03.png';
-%strSucc = 'Z:\Data\Users\RNAFish\PubMaterial\MethodsPaper\150408-Methods10x_20150408_200839\wResults\150408-Methods10x\TIFF\150408-Methods10x_E09_T0001F001L01A01Z01C02.tif';
 
 strSegIt   = '/Users/dorispopovic/shares/pelkmans-new-fileserver/dpopovic/2019/4i-siRNA/19102019Doris4i-siRNA-C1/SEGMENTATION/19102019Doris4i-siRNA-C1_G07_T0001F008L01A01Z01C01_SegmentedCells.png';
 strSegOrig = '/Users/dorispopovic/shares/pelkmans-new-fileserver/dpopovic/2019/4i-siRNA/19102019Doris4i-siRNA-C1/SEGMENTATION/19102019Doris4i-siRNA-C1_G07_T0001F008L01A01Z01C01_SegmentedCells.png';
