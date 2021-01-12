@@ -23,10 +23,6 @@ path_featurenames <- file.path("/Users/dorispopovic/Desktop/","featurenames.mat"
 featurenames <- readMat(path_featurenames);
 
 
-path_data = 'N:\\Data\\Users\\CellAtlas\\Datasets\\20161028_ALL_PCA5_revzscored_notnormalized_CellNucleiCyctoplasm_IntTxt_105_data.csv';
-data = read.csv(path_data,header=FALSE);
-path_featurenames = 'N:\\Data\\Users\\CellAtlas\\Datasets\\20161028_ALL_PCA5_revzscored_CellNucleiCyctoplasm_IntTxt_105_featurenames.csv';
-featurenames = read.csv(path_featurenames);
 
 # add header to tabele
 
